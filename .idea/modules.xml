@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" filepath="$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryDesignPattern.iml" filepath="$PROJECT_DIR$/FactoryDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProtoTypePattern/ProtoTypePattern.iml" filepath="$PROJECT_DIR$/ProtoTypePattern/ProtoTypePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" />
     </modules>
   </component>
