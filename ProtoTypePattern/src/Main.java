@@ -8,7 +8,11 @@ public class Main {
         AbstractProductProtoType clonedProduct1 = productProtoType1.clone();
         AbstractProductProtoType clonedProduct2 = productProtoType2.clone();
 
+        System.out.println("OG Products : ");
+        productProtoType1.display();
+        productProtoType2.display();
 
+        System.out.println("\nClone Products : ");
         clonedProduct1.display();
         clonedProduct2.display();
 
