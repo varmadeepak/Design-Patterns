@@ -10,7 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Design-Patterns.iml" filepath="$PROJECT_DIR$/.idea/Design-Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory/Factory_Method/Factory_Method.iml" filepath="$PROJECT_DIR$/Factory/Factory_Method/Factory_Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Iterator/Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/ObjectAdapter/ObjectAdapter.iml" filepath="$PROJECT_DIR$/Adapter/ObjectAdapter/ObjectAdapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
