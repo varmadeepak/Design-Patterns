@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/Bridge/Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" filepath="$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Design-Patterns.iml" filepath="$PROJECT_DIR$/.idea/Design-Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Iterator/Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/ObjectAdapter/ObjectAdapter.iml" filepath="$PROJECT_DIR$/Adapter/ObjectAdapter/ObjectAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProtoTypePattern/ProtoTypePattern.iml" filepath="$PROJECT_DIR$/ProtoTypePattern/ProtoTypePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Simple_Strategy/Simple_Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Simple_Strategy/Simple_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingleTon/SingleTon.iml" filepath="$PROJECT_DIR$/SingleTon/SingleTon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy_with_Factory/Strategy_with_Factory.iml" filepath="$PROJECT_DIR$/Strategy/Strategy_with_Factory/Strategy_with_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template/Template.iml" filepath="$PROJECT_DIR$/Template/Template.iml" />
+    </modules>
+  </component>
+</project>
